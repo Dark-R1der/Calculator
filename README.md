@@ -1,6 +1,6 @@
 # CALCULATOR APP 
 
-Can perform basic calculation
+Performs basic calculation
 
 Language:
 Kotlin
